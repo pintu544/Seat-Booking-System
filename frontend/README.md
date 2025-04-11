@@ -17,13 +17,15 @@
 
 <h1>Seat Booking System</h1>
 
-  
 
+
+<a href="[https://trainseatsbooking.netlify.app  ](https://trainseatsbooking.netlify.app  )" target="_blank">Frontend Live  </a>
+<a href="[https://seat-booking-system-ii86.onrender.com](https://seat-booking-system-ii86.onrender.com)" target="_blank">Backend Live </a>
 <p>A full-stack application for booking seats in a theater or train coach with an intelligent seat allocation algorithm that prioritizes keeping groups together in the same row when possible.</p>
 
   
 
-<img src="https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689589749/dnd7h6s237vrgnpnt4fa.png" alt="Seat Booking System">
+<img src="[https://asset.cloudinary.com/dwosjlf3s/490ada8e572a9fc281dc45a3f1343971](https://asset.cloudinary.com/dwosjlf3s/490ada8e572a9fc281dc45a3f1343971)" alt="Seat Booking System">
 
   
 
