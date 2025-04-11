@@ -26,7 +26,7 @@
   
 
 
-<img src="https://asset.cloudinary.com/dwosjlf3s/490ada8e572a9fc281dc45a3f1343971.png" alt="Seat Booking System">
+<img src="https://res.cloudinary.com/dwosjlf3s/image/upload/v1744279043/sheet_booking_dhajfb.png" alt="Seat Booking System">
 
 <h2>Features</h2>
 
