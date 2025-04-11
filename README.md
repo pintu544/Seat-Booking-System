@@ -19,8 +19,8 @@
 
 
 
-<a href="[https://trainseatsbooking.netlify.app  ](https://trainseatsbooking.netlify.app  )" target="_blank">Frontend Live  </a>
-<a href="[https://seat-booking-system-ii86.onrender.com](https://seat-booking-system-ii86.onrender.com)" target="_blank">Backend Live </a>
+<a href="https://trainseatsbooking.netlify.app" target="_blank">Frontend Live  </a>
+<a href="https://seat-booking-system-ii86.onrender.com" target="_blank">Backend Live </a>
 <p>A full-stack application for booking seats in a theater or train coach with an intelligent seat allocation algorithm that prioritizes keeping groups together in the same row when possible.</p>
 
   
