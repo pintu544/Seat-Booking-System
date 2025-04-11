@@ -25,9 +25,9 @@
 
   
 
-<img src="[https://asset.cloudinary.com/dwosjlf3s/490ada8e572a9fc281dc45a3f1343971](https://asset.cloudinary.com/dwosjlf3s/490ada8e572a9fc281dc45a3f1343971)" alt="Seat Booking System">
 
-  
+
+  <img src="https://asset.cloudinary.com/dwosjlf3s/490ada8e572a9fc281dc45a3f1343971" alt="sc" >
 
 <h2>Features</h2>
 
